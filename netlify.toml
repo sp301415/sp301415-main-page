@@ -1,0 +1,10 @@
+# Remove assets from search results
+[[headers]]
+for = "/assets/*.pdf"
+[headers.values]
+X-Robots-Tag = "noindex, nofollow"
+
+[[headers]]
+for = "/assets/*.png"
+[headers.values]
+X-Robots-Tag = "noindex, nofollow"

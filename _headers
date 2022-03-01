@@ -1,6 +1,0 @@
-# Remove pdf from search results.
-/assets/*.pdf
-  X-Robots-Tag: noindex, nofollow
-
-/assets/*.png
-  X-Robots-Tag: noindex, nofollow
