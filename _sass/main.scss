@@ -49,6 +49,9 @@ a:active {
   margin-right: auto;
   margin-bottom: 5rem;
 
+  padding-right: 1rem;
+  padding-left: 1rem;
+
   max-width: 600px;
   flex: 1;
   
@@ -59,8 +62,8 @@ a:active {
 }
 
 header {
-  margin-top: 1rem;
-  margin-right: 2rem;
+  padding-top: 1rem;
+  padding-right: 1rem;
 
   text-align: right;
   height: 3rem;

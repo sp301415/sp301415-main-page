@@ -1,0 +1,6 @@
+# Remove pdf from search results.
+*.pdf:
+  X-Robots-Tag: noindex, nofollow
+
+*.png:
+  X-Robots-Tag: noindex, nofollow

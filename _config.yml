@@ -2,6 +2,12 @@ url: "sp301415.com" # the base hostname & protocol for your site, e.g. http://ex
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Hwang In Tak" # the name of your site, e.g. ACME Corp.
 
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+
 exclude:
   - .sass-cache/
   - .jekyll-cache/
@@ -13,3 +19,12 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+include:
+  - _headers
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: /assets/og.png
