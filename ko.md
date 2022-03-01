@@ -1,5 +1,6 @@
 ---
-layout: ko
+layout: default
+lang: ko
 permalink: /ko/
 ---
 

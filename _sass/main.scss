@@ -27,7 +27,7 @@ p {
 h1 {
   font-size: 2.5rem;
   line-height: 1.25;
-  margin-top: 2.5rem;
+  margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
@@ -44,10 +44,27 @@ a:active {
   color: $dark-gray;
 }
 
+.dark-link {
+  text-decoration: none;
+  color: $dark-gray;
+  transition: opacity .15s ease-in;
+}
+
+.dark-link:hover,
+.dark-link:focus,
+.dark-link:active {
+  color: $dark-gray;
+  opacity: .7;
+}
+
+.nav {
+  margin-top: 1rem;
+}
+
 .container {
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 5rem;
+  margin-top: -3rem;
 
   padding-right: 1rem;
   padding-left: 1rem;
@@ -69,10 +86,14 @@ header {
   height: 3rem;
 }
 
-footer {
-  height: 3rem;
-}
-
 .profile {
   width: 150px;
+}
+
+.nav-link {
+  font-weight: bold;
+}
+
+.nav-link+ .nav-link {
+  margin-left: 1rem;
 }

@@ -1,5 +1,6 @@
 ---
-layout: en
+layout: default
+lang: en
 ---
 # Hello! 👋
 
