@@ -2,9 +2,9 @@
 [[headers]]
 for = "/assets/*.pdf"
 [headers.values]
-X-Robots-Tag = "noindex, nofollow"
+X-Robots-Tag = "noindex"
 
 [[headers]]
 for = "/assets/*.png"
 [headers.values]
-X-Robots-Tag = "noindex, nofollow"
+X-Robots-Tag = "noindex"
