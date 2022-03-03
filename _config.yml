@@ -28,4 +28,4 @@ defaults:
     scope:
       path: ""
     values:
-      image: /assets/og.png
+      image: /assets/ogimg.png
