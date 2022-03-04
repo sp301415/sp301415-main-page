@@ -1,4 +1,4 @@
 User-agent: *
 
-Disallow: *.pdf
-Disallow: *.png
+Disallow: /assets/files/*
+Disallow: /assets/ogimg/*
