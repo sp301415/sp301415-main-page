@@ -1,10 +1,4 @@
-# Remove assets from search results
 [[headers]]
-for = "/assets/files/*"
-[headers.values]
-X-Robots-Tag = "noindex"
-
-[[headers]]
-for = "/assets/ogimg/*"
+for = "/static/files/*"
 [headers.values]
 X-Robots-Tag = "noindex"
