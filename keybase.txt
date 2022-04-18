@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/sp301415
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sp301415.com
+  * I am sp301415 (https://keybase.io/sp301415) on keybase.
+  * I have a public key with fingerprint EA7D 39D8 D869 232B 2DAD  E219 D003 834B 5541 21AB
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018b9b695667b3a007f91179bf375bcd8c3aec5df029bacaab5c27c45f6ed3db430a",
+      "fingerprint": "ea7d39d8d869232b2dade219d003834b554121ab",
+      "host": "keybase.io",
+      "key_id": "d003834b554121ab",
+      "kid": "01018b9b695667b3a007f91179bf375bcd8c3aec5df029bacaab5c27c45f6ed3db430a",
+      "uid": "0e37ab363e447bc3d7d0377ae1ce3b19",
+      "username": "sp301415"
+    },
+    "service": {
+      "hostname": "sp301415.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1650257902,
+  "expire_in": 157680000,
+  "prev": "e4a29d0cc24e9cc655042b622cccb8bd28e9874432b25562ecb78a41d879265e",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUmlIVUEYfS+NVJAiQjBScawsMr0zc+cuT6KijHZJbTGqx2xPb+q7r/fusyxt
+wYKEoCgoWn60QGVmBdUjLCgIxTawIpAiCItooUUSWiTqXqs/0c/mzzDfnHPmfGe+
+PelJvhR/T1LzgqUzc9v8d14zH1v1oX8TYLZoAIFNoEYObbJWyJgTrLEECAAFKtBg
+JtNMomk6w1RR9JAJoW6yENYJ48LgmEpOREhBJqOcUkY40rlKQpoUWDAVKxQUgJAV
+rpLRSNQKO66spLrApjCEoZkII4YEFRJBUygKNrDKCFEhgpS5xGo75jFcc4zGZKFl
+uzX3EByy9w/8f/Yd/yUnsU4Z1rBUVZ1xLHShYF2nEnKJGTQ9YExGw7ROuuhYBCtQ
+hQQ0FQC3Wm9x6QXrdfIXopDbdS43ErUdm9u17k2140RiAY/pNEQ86HrJgr9FgswK
+CzdHl1EvozHLDoMAdJHcsTxVqBEFEd1UUAGQGyJWVAYtD0F0zVDc5b0j6730VYrc
+qFdwjlRpcq4RoqiIaQhxzpnBBDKkaeiq6v0MIRqSnOkGVaEwdBNpRAKvr3VhGwRU
+1yet8jqyqsLUiUclaEpr8eNknz/Fl5WRm/ymyezttfKmTG3vy/wze8OHeYPnS0sd
+9ady4fyI79nTHgzeyInfLg2eeRhv6Uwcqd7WpobSYfcO0DficNuB7MwVKjBSTmxt
+fTxp/UDN8MX7ykqCFV3ni/POfZ5Y+uRphXFx/+h7lxo2Hx7zFSd6O7aLpsntzflb
+Sk8OOB9Xdo37Uraz4/385cczb729/Cpx5uW8ZSXkbOO7RP6chcVXjp0q7B7IQi/3
+j5+bvyY8Ky/w/PqipETzD3//jB2+6Udmd+aWJ7Si4kcHWy9PaSyY/EXbmlSU1zj4
+dgy+uzunohI0Doxt2VVa8qnhXd2LFyNXL2OHhsEDV9v3sqVtvDIxoXxa8/218SUJ
+PGpOzubFN3d+W7Dr2nHak7rx2emy5zMyjmbAs3t/Ag==
+=69q7
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sp301415
+
+==================================================================
