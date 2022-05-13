@@ -28,4 +28,4 @@ defaults:
     scope:
       path: ""
     values:
-      image: /assets/ogimg/ogimg.png
+      image: /assets/opengraph/default.png
