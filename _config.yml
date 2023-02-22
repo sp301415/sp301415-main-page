@@ -22,6 +22,10 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - bundle/
+  - cache/
+  - gems/
+  - ruby/
 
 defaults:
   -
