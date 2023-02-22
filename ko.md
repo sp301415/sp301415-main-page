@@ -8,7 +8,7 @@ permalink: /ko/
 
 저는 **황인탁**(sp301415)입니다.
 
-저는 서울대학교 컴퓨터공학부 암호 및 프라이버시 연구실에서 대학원생으로 재학 중입니다. 지도교수는 [송용수](https://yongsoosong.github.io) 교수님입니다. 저는 현대 암호학과 보안 프로토콜의 이론과 응용에 관심이 많습니다.
+저는 서울대학교 컴퓨터공학부 암호 및 프라이버시 연구실에서 대학원생으로 재학 중입니다. 지도교수는 [송용수](https://yongsoosong.github.io) 교수님입니다. 최근에는 현대 암호학과 보안 프로토콜의 이론과 응용을 연구하고 있습니다.
 
 취미로는 [Team Invertible](https://twitter.com/team_invertible)에서 소코반 퍼즐 게임을 개발하고 있습니다. [영화도 자주 봅니다.](https://letterboxd.com/sp301415)
 
