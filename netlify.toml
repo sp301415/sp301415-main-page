@@ -1,4 +1,0 @@
-[[headers]]
-for = "/static/files/*"
-[headers.values]
-X-Robots-Tag = "noindex"
