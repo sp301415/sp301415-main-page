@@ -1,9 +1,9 @@
 url: "https://sp301415.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "Hwang In Tak" # the name of your site, e.g. ACME Corp.
+title: "Intak Hwang" # the name of your site, e.g. ACME Corp.
 email: sp301415@gmail.com
 author: sp301415
-description: "Hello! I'm Hwang In Tak (sp301415)."
+description: "Hello! I'm Intak Hwang (sp301415)."
 
 sass:
   style: compressed
