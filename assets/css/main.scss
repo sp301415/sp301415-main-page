@@ -1,6 +1,6 @@
 ---
 ---
 
-@import "normalize";
+@use "normalize" as *;
 
-@import "style";
+@use "style" as *;
