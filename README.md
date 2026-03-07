@@ -1,5 +1,5 @@
 # sp301415-main-page
 
-https://sp301415.com
+https://intakhwa.ng
 
 My tiny little space on the Internet.
