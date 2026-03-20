@@ -7,7 +7,7 @@ permalink: /trivia/
 
 ## Ten Favourite Films
 
-1. **Sherlock, Jr.**, Buster Keaton, 1932
+1. **Sherlock, Jr.**, Buster Keaton, 1924
 2. **Wild Strawberries**, Ingmar Bergman, 1957
 3. **Andrei Rublev**, Andrei Tarkovsky, 1966
 4. **The Road to Sampo**, Lee Man-hee, 1975
