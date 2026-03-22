@@ -19,3 +19,13 @@ permalink: /trivia/
 10. **World of Tomorrow**, Don Hertzfeldt, 2015
 
 (Chronological Order, Last Updated: 2026/03)
+
+## Five Recommended Korean Films
+
+1. **Mist**, Kim Soo-yong, 1967
+2. **The Road to Sampo**, Lee Man-hee, 1975
+3. **Jagko**, Im Kwon-taek, 1983
+4. **No. 3**, Song Nung-han, 1997
+5. **Mother**, Bong Joon-ho, 2009
+
+(Chronological Order, Last Updated: 2026/03)
