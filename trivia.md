@@ -10,8 +10,8 @@ permalink: /trivia/
 1. **Sherlock, Jr.**, Buster Keaton, 1924
 2. **Wild Strawberries**, Ingmar Bergman, 1957
 3. **Andrei Rublev**, Andrei Tarkovsky, 1966
-4. **The Road to Sampo**, Lee Man-hee, 1975
-5. **All That Jazz**, Bob Fosse, 1979
+4. **All That Jazz**, Bob Fosse, 1979
+5. **The Last Witness**, Lee Doo-yong, 1980
 6. **Stop Making Sense**, Jonathan Demme, 1984
 7. **Yi Yi**, Edward Yang, 2000
 8. **Nostalgia for the Light**, Patricio Guzman, 2010
